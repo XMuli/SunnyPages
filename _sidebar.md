@@ -1,0 +1,2 @@
+- Guide
+  - [Getting Started](/getting-started)
