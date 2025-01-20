@@ -19,4 +19,5 @@ SunnyCapturer 是一款简单且漂亮的跨平台截图软件工具，支持 OC
 - open source Code | 代码开源：[https://github.com/SunnyCapturer](https://github.com/SunnyCapturer)
 
 
-                                                  --2024.12.24
+
+​																					--2024.12.24                                              
